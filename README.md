@@ -164,22 +164,22 @@ The application will be displayed in local host to be viewed via web or Expo Go.
 
 ### Homepage
 
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](assets/Screenshots/homepage.png)
 
 ### Add Message Screen
 
-![AddMessage](assets/screenshots/add_message.png)
+![AddMessage](assets/Screenshots/add_message.png)
 
 
 ### Directory Screen
 
-![DirectoryScreen](assets/screenshots/directory_screen.png)
+![DirectoryScreen](assets/Screenshots/directory_screen.png)
 
 ### Message Detail Screen
 
-![MessageDetail](assets/screenshots/message_detail.png)
+![MessageDetail](assets/Screenshots/message_detail.png)
 
 ### Filtered Messages
 
-![FilteredUnread](assets/screenshots/filtered_unread.png)
-![FilteredUrgent](assets/screenshots/filtered_urgent.png)
+![FilteredUnread](assets/Screenshots/filtered_unread.png)
+![FilteredUrgent](assets/Screenshots/filtered_urgent.png)
